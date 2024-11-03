@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="532ff54c-7c28-40d1-bd6e-d7d8baf2621b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../QE02/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QE02/QE02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QE02/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QE02/src/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QE02/src/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QE02/src/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Qe1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Qe1/Qe1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitapjava02_doityourself/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitapjava02_doityourself/baitapjava02_doityourself.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitapjavac1/baitapjavac1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitapjavac2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitapjavac2/baitapjavac2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hocbai02/hocbai02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lailajava/lailajava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oopecc2.02/src/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oopecc2.02/src/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oopecc2.02/src/TestBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oopecc2.05/src/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oopecc2.05/src/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oopecc2.05/src/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oopex/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oopex/oopex.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oopexc1/oopexc1bai1.09/oopexc1bai1.09.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oopexc1/oopexc1bai1.2/oopexc1bai1.2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oopexc1/oopexc1bai1.3/oopexc1bai1.3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oopexc1/oopexc1bai1.4/oopexc1bai1.4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oopexc1/oopexc1bai1.5/oopexc1bai1.5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oopexc1/oopexc1bai1.6/oopexc1bai1.6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oopexc1/oopexc1bai1.7/oopexc1bai1.7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oopexc1/oopexc1bai1.8/oopexc1bai1.8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oopexc2.01/src/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oopexc2.01/src/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oopexc2.01/src/TestBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oopexc2.03/src/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oopexc2.03/src/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oopexc2.03/src/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oopexc2.04/src/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oopexc2.04/src/Invoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oopexc2.04/src/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oopexc2.06/src/MyPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oopexc2.06/src/TestMyPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oopexc2.07/src/MyLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oopexc2.07/src/MyPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oopexc2.07/src/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestMyCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oopexc207/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oopexc210/oopexc210.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oopexc210/src/MyPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oopexc210/src/MyRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oopexc210/src/TestMyRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oopexc301/oopexc301.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oopexc301/src/MyComplex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oopexc301/src/MyComplexApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oopexc301/src/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oopexc302/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oopexc302/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oopexc302/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oopexc302/oopexc302.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oopexc302/src/MyPolynomial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oopexc302/src/TestMyPolynomial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oopexc303/oopexc303.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oopexc303/src/TestBigInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oopexc304/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oopexc304/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oopexc304/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oopexc304/oopexc304.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oopexc304/src/MyTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oopexc304/src/TestMyTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oopexc305/src/MyDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oopexc305/src/TestMyDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oopexc306/src/Ball.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oopexc306/src/Container.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oopexc306/src/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oopexc307/src/Ball.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oopexc307/src/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oopexc307/src/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oopexc401/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oopexc401/src/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oopexc404/src/MovablePoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oopexc404/src/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oopexc404/src/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oopexchuong1/oopexchuong1.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2oIYa4qQ2zp2o7mkARrWc4hwzFN" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.TestMyCircle.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/LENOVO/IdeaProjects/oopexc2.08/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="532ff54c-7c28-40d1-bd6e-d7d8baf2621b" name="Changes" comment="" />
+      <created>1730558619005</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730558619005</updated>
+      <workItem from="1730558620040" duration="205000" />
+      <workItem from="1730558844206" duration="31000" />
+      <workItem from="1730558892962" duration="5000" />
+      <workItem from="1730559227363" duration="1758000" />
+      <workItem from="1730564769367" duration="2715000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
